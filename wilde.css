@@ -1,0 +1,27 @@
+.speech{
+    color: black;
+    font-size: 17px;
+    font-family: Times New Roman;}
+
+.stage-direction{
+    color:black;
+    font-size: 17px;
+    font-family: Times New Roman;
+    background-color: darkgray;}
+
+.name{
+    color: black;
+    font-size: 17px;
+    font-family: Times New Roman}
+
+.stage-direction:hover{
+    color: cornsilk;
+    background-color: darkseagreen;
+}
+.LORDGORING{
+    color: deeppink;}
+
+.SIR ROBERT CHILTERN{
+    color:maroon}
+
+    
