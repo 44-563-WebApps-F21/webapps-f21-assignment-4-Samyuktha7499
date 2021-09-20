@@ -24,7 +24,7 @@
 }
 
 .SIRROBERTCHILTERN{
-    color:maroon;
+    color:darkmagenta;
 }
 table{
     border: 1px solid black;
@@ -36,5 +36,13 @@ th{
     color: black;
     border: 1px solid black;
     text-align: center;
-    background-color: ;
+    background-color:blueviolet;
+}
+td{
+    color:rgb(23, 10, 199) ;
+    border: 1px solid black;
+    text-align: left;
+}
+tr:nth-child(even){
+    background-color: darkturquoise;
 }
